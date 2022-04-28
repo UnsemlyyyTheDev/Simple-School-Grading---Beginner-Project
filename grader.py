@@ -54,13 +54,13 @@ total = (math + english + science // 300)
 
 print("Your total grade is " + str(total))
 
-if (total >= 95):
+if (total >= 280):
     print("A+")
-elif(total >= 90):
+elif(total >= 260):
     print("A")
-elif(total >= 80):
+elif(total >= 200):
     print("B")
-elif(total >= 60):
+elif(total >= 180):
     print("C")
 
 
